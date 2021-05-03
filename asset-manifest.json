@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/space-reactor/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/space-reactor/static/js/main.6f98df4c.chunk.js",
+    "main.js.map": "/space-reactor/static/js/main.6f98df4c.chunk.js.map",
+    "runtime-main.js": "/space-reactor/static/js/runtime-main.de8c876e.js",
+    "runtime-main.js.map": "/space-reactor/static/js/runtime-main.de8c876e.js.map",
+    "static/js/2.4305b720.chunk.js": "/space-reactor/static/js/2.4305b720.chunk.js",
+    "static/js/2.4305b720.chunk.js.map": "/space-reactor/static/js/2.4305b720.chunk.js.map",
+    "static/js/3.af35a261.chunk.js": "/space-reactor/static/js/3.af35a261.chunk.js",
+    "static/js/3.af35a261.chunk.js.map": "/space-reactor/static/js/3.af35a261.chunk.js.map",
+    "index.html": "/space-reactor/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/space-reactor/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4305b720.chunk.js.LICENSE.txt": "/space-reactor/static/js/2.4305b720.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de8c876e.js",
+    "static/js/2.4305b720.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6f98df4c.chunk.js"
+  ]
+}
